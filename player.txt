@@ -1,0 +1,23 @@
+     
+==============WELCOME==============
+
+
+
+         ***INSTRUCTIONS***
+
+  1. Use only lowercase character
+  2. You only have FOUR chances
+     to guess the word
+  3. You can guess only ONE letter
+     or ONE word per guess.
+  4. For 1 player options, you are
+     are required to choose ONE
+     category per plays.
+  5. For 2 player options, player 1
+     need to enter words for
+     player 2 to guess
+
+
+              Choose:
+           1. 1 PLAYER
+           2. 2 PLAYER
